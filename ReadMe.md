@@ -132,6 +132,4 @@ Url: `http://localhost:8080/customers/{Id}`
 
 Url: `http://localhost:8080/customers/{Id}`
 
-#### Response
-
-Status Code: 204 No Content
+#### Response (Status Code: 204 No Content)
